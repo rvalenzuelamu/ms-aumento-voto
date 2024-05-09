@@ -46,3 +46,7 @@ jobs:
         run: | 
           docker build -t 987219263/ms-aumento-voto:latest .
 
+      - name: Docker push
+        run: | 
+          docker push 987219263/ms-aumento-voto:latest
+

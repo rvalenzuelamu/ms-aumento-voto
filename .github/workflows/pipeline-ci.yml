@@ -32,4 +32,5 @@ jobs:
           -Dsonar.host.url=https://sonarcloud.io \
           -Dsonar.organization=rvalenzuelamu \ 
           -Dsonar.projectKey=rvalenzuelamu_ms-aumento-voto
+          
 
